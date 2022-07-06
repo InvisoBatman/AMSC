@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+setup.py
+Auto_McDonald_s_Survey_Completer.egg-info/PKG-INFO
+Auto_McDonald_s_Survey_Completer.egg-info/SOURCES.txt
+Auto_McDonald_s_Survey_Completer.egg-info/dependency_links.txt
+Auto_McDonald_s_Survey_Completer.egg-info/requires.txt
+Auto_McDonald_s_Survey_Completer.egg-info/top_level.txt

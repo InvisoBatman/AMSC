@@ -1,0 +1,61 @@
+Metadata-Version: 2.1
+Name: Auto-McDonald-s-Survey-Completer
+Version: 1.0.0
+Summary: A program that expedites the McDonald's survey proccess
+Home-page: UNKNOWN
+Author: Ian Blake Lawson
+Author-email: ian.lawson42@gmail.com
+License: UNKNOWN
+Keywords: McDonald's survey fastfood fast food
+Platform: UNKNOWN
+Classifier: Development Status :: initial Beta
+Classifier: Intended Audience :: My grandparents
+Classifier: Topic :: survey
+Classifier: License :: OSI Approved :: none
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.10.4
+License-File: LICENSE.txt
+
+
+Auto-McDonald's-Survey-Completer
+======
+
+An automatic survey completer for McDonald's receipt surveys.
+It uses the survey code printed on every McDonald's receipt,
+completes the survey and prints out the Validation Code.
+
+The code is Python 3.
+
+Installation
+------------
+
+Fast install:
+
+::
+
+    pip install amsc
+
+For a manual install get this package:   
+
+Example
+--------
+
+Input:
+
+Code: 02699-13280-61922-14292-00021-2
+Code: 02699-13920-62622-16314-00027-3
+Code: 02699-13890-62022-11405-00021-2
+
+Output:
+
+thinking...
+1
+2
+3
+Survey Code: 02699-13280-61922-14292-00021-2 Validation Code: 8702113
+Survey Code: 02699-13920-62622-16314-00027-3 Validation Code: 8706013
+Survey Code: 02699-13890-62022-11405-00021-2 Validation Code: 8708713
+
+    
+    
+
